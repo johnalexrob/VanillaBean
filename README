@@ -1,7 +1,8 @@
 VanillaBean
 --------------
 A python module for building IF games. As of right now, it's fairly simple, 
-although it has base functionality and is working. 
+although it has base functionality and is working. Just start with 'from 
+VanillaBean import *', and you're good to go. 
 
 VanillaBean 1.0:
 ==================
